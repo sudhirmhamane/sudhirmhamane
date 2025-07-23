@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Sudhir Mhamane</h1>
-<h3 align="center">🚀 Java Full Stack Developer | React.js Enthusiast | LeetCode Solver | Final Year Electrical Engineer</h3>
+<h3 align="center">🚀 Full Stack Developer | JavaScript/React.js Enthusiast | LeetCode Solver | Final Year Electrical Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=2000&center=true&vCenter=true&width=600&lines=Code.+Innovate.+Solve.;200%2B+LeetCode+Problems+%E2%9C%85;React+%2B+Java+%2B+MongoDB+%3D+My+Stack;Problem+Solver+%7C+Project+Builder+%7C+Placement+Ready" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=2000&center=true&vCenter=true&width=600&lines=Code.+Innovate.+Solve.;200%2B+LeetCode+Problems+%E2%9C%85;JavaScript+React+%2B+Java+%2B+MongoDB+%3D+My+Stack;Problem+Solver+%7C+Project+Builder+%7C+Placement+Ready" />
 </p>
 
 
@@ -13,11 +13,10 @@
 ### 🧠 About Me
 
 - 🎓 Final Year B.Tech Electrical Engineering student at NKOCET, Solapur (CGPA: 7.22/10)
-- 💻 Full Stack Developer skilled in **Java, React, Node.js, MongoDB, and MySQL**
+- 💻 Full Stack Developer skilled in **JavaScript, React, Node.js, MongoDB, Express.js and MySQL**
 - 🎯 Solved 200+ DSA problems on **LeetCode** (and counting!)
 - 🔥 Passionate about building projects that solve real-world problems
 - 📢 Currently working as a **Training & Placement Coordinator**
-- 🗣️ Building my communication with my YouTube series – **Chai aur English ☕**
 
 ---
 
@@ -25,9 +24,9 @@
 
 | 💻 Project | 🔧 Tech Stack | 📌 Highlights |
 |-----------|--------------|---------------|
-| 🎬 [ShowMate](https://github.com/sudhirmhamane/ShowMate) | React, Node.js, Express, MongoDB | Movie booking system with real-time selection, admin panel |
+| 🎬 [QRupay](https://qrupay.vercel.app/) | TypeScript, React.js, Tailwind CSS Supabase | Emergency medical info system with secure QR code scanner, and robust data management |
 | 🌐 [GoNations](https://gonations.vercel.app/) | React.js, Tailwind CSS | Country info site with responsive design and stat cards |
-| 🧾 [Portfolio Website](https://sudhirmhamane.netlify.app/) | React.js, Tailwind CSS | Fully responsive portfolio showcasing my work and skills |
+| 🧾 [Portfolio Website](https://sudhirmhamane.vercel.app/) | React.js, Tailwind CSS | Fully responsive portfolio showcasing my work and skills |
 
 ---
 
@@ -88,6 +87,5 @@
 ---
 
 <p align="center">
-  🏏 “Unity is our power factor” – Team Player | 💻 “I don’t just code. I craft solutions.” <br>
-  ☕ Learning English daily – [Chai aur English YouTube](#) (coming soon!)
+  🏏 “Unity is our power factor” – Team Player | 💻 “I don’t just code. I craft solutions.” 
 </p>
