@@ -1,81 +1,92 @@
 <h1 align="center">Hey 👋, I'm Sudhir Mhamane</h1>
-<h3 align="center">🚀 Electrical Engineer | Java Full Stack Developer | AI Explorer | Smart Tech Innovator</h3>
+<h3 align="center">🚀 Java Full Stack Developer | React.js Enthusiast | LeetCode Solver | Final Year Electrical Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Code.+Innovate.+Inspire.;Building+Tech+that+Matters.;Full+Stack+Developer+in+Progress...;From+Circuits+to+Code+💻+⚡;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Code.+Innovate.+Solve.;200%2B+LeetCode+Problems+%E2%9C%85;React+%2B+Java+%2B+MongoDB+%3D+My+Stack;Problem+Solver+%7C+Project+Builder+%7C+Placement+Ready" />
 </p>
 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/e4/9c/e1e49c5d1562358ff5cba7441b8c9d08.gif"/>
 
-### 🔥 About Me
+### 🧠 About Me
 
-- 🛠 Final Year **Electrical Engineering** student blending circuits with code.
-- 💡 Currently building: **Smart Bag with Object Detection and Alert System** (IoT + AI + App)
-- 💻 Passionate about **Java Full Stack** | React + Spring Boot + MySQL
-- ⚡ Interested in **AI, Sustainable Tech & Live Problem Solving**
-- 🎯 Mission: **Make tech that solves real-world problems.**
-- 📚 Lifelong learner. Currently leveling up in:
-  - 🔹 Graphs & Dynamic Programming in DSA
-  - 🔹 Building full-stack React-Spring Boot projects
-  - 🔹 English Fluency (Check: `Chai aur English ☕📘` on YouTube)
+- 🎓 Final Year B.Tech Electrical Engineering student at NKOCET, Solapur (CGPA: 7.22/10)
+- 💻 Full Stack Developer skilled in **Java, React, Node.js, MongoDB, and MySQL**
+- 🎯 Solved 200+ DSA problems on **LeetCode** (and counting!)
+- 🔥 Passionate about building projects that solve real-world problems
+- 📢 Currently working as a **Training & Placement Coordinator**
+- 🗣️ Building my communication with my YouTube series – **Chai aur English ☕**
+
+---
+
+### 💼 Featured Projects
+
+| 💻 Project | 🔧 Tech Stack | 📌 Highlights |
+|-----------|--------------|---------------|
+| 🎬 [ShowMate](https://github.com/sudhirmhamane/ShowMate) | React, Node.js, Express, MongoDB | Movie booking system with real-time selection, admin panel |
+| 🌐 [GoNations](https://gonations.vercel.app/) | React.js, Tailwind CSS | Country info site with responsive design and stat cards |
+| 🧾 [Portfolio Website](https://sudhirmhamane.netlify.app/) | React.js, Tailwind CSS | Fully responsive portfolio showcasing my work and skills |
 
 ---
 
 ### 🧰 Tech Toolbox
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 💡 Projects That Define Me
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🧠 Smart Bag with Alert System | IoT, ML, Mobile App, GPS | Real-time object detection, GPS tracking, smart locking, and more |
-| 🌱 E-Waste Management App | React, Spring Boot, MySQL | Tracks, educates, and connects for sustainable e-waste disposal |
-| ⚡ Smart Energy Monitoring Tool | React, Charts.js, Sensor APIs | Live tracking and alerts for home/business energy optimization |
-| 🏏 CricketVerse Web App | MERN Stack | Explore players, stats, history of cricket — one platform! |
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![VS Code](https://img.shields.io/badge/-VS_Code-000?&logo=visual-studio-code)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudhirmhamane&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhirmhamane&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sudhirmhamane&show_icons=true&theme=radical" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhirmhamane&theme=radical" height="180px"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🧠 Education & Training
+
+- 📚 **B.Tech in Electrical Engineering** – NKOCET Solapur (2022–2026)
+- ✅ **C Programming Training** – Giri’s Tech Hub & AptTech
+- 🎓 **TCS iON Career Edge Course** – Resume, GD, Interview, Etiquette, AI, IT basics
+
+---
+
+### 🌟 Achievements
+
+- ✅ Solved **200+ DSA problems** on LeetCode
+- 🥇 Participated in national-level coding & innovation challenges on **Unstop**
+- 🧩 Strong grasp of **OOP, OS, CN, DBMS, DSA**
+- 🎤 Improving communication with my **daily English YouTube series**
+- 🧠 Learning by doing – from circuits to code!
+
+---
+
+### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/sudhirmhamane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sudhirmhamane@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sudhirmhamane" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:sudhirmhamane908@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sudhirmhamane"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sudhirmhamane"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/sudhirmhamane/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
 <p align="center">
-  🚀 “Unity is our power factor.” — <i>Smash Cricket Champion 🏆</i><br>
-  🎯 "I don't just build projects. I solve problems."
+  🏏 “Unity is our power factor” – Team Player | 💻 “I don’t just code. I craft solutions.” <br>
+  ☕ Learning English daily – [Chai aur English YouTube](#) (coming soon!)
 </p>
-
----
