@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sudhir Mhamane</h1>
-<h3 align="center">🚀 Full Stack Developer | JavaScript/React.js Enthusiast | LeetCode Solver | Final Year Electrical Engineer</h3>
+<h3 align="center">🚀 Full Stack Developer | JavaScript/React.js Enthusiast | Team Player | Final Year Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=2000&center=true&vCenter=true&width=600&lines=Code.+Innovate.+Solve.;200%2B+LeetCode+Problems+%E2%9C%85;JavaScript+React+%2B+Java+%2B+MongoDB+%3D+My+Stack;Problem+Solver+%7C+Project+Builder+%7C+Placement+Ready" />
