@@ -24,9 +24,13 @@
 
 | 💻 Project | 🔧 Tech Stack | 📌 Highlights |
 |-----------|--------------|---------------|
-| 🎬 [QRupay](https://qrupay.vercel.app/) | TypeScript, React.js, Tailwind CSS Supabase | Emergency medical info system with secure QR code scanner, and robust data management |
+| 🎬 [QRupay](https://qrupay.vercel.app/) | TypeScript, React.js, Tailwind CSS, Supabase | Emergency medical info system with secure QR code scanner, and robust data management |
+| 🤖 [CreativoAI](https://creativoai.vercel.app/) | React, Node.js, Express, PostgreSQL, Clerk Auth | Full-stack AI SaaS platform with tools like image editing and resume analysis; supports secure login and subscription billing |
+| 🎟️ [ShowMate](https://showsmate.vercel.app/) | React, Tailwind CSS, Node.js, Express | Movie ticket booking UI with real-time listings, seat selection, and dynamic pricing; backend with secure login in progress |
 | 🌐 [GoNations](https://gonations.vercel.app/) | React.js, Tailwind CSS | Country info site with responsive design and stat cards |
 | 🧾 [Portfolio Website](https://sudhirmhamane.vercel.app/) | React.js, Tailwind CSS | Fully responsive portfolio showcasing my work and skills |
+
+
 
 ---
 
