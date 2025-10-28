@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Final Year B.Tech Electrical Engineering student at NKOCET, Solapur (CGPA: 7.22/10)
+- 🎓 Final Year B.Tech Electrical Engineering student at NKOCET, Solapur (CGPA: 7.36/10)
 - 💻 Full Stack Developer skilled in **JavaScript, React, Node.js, MongoDB, Express.js and MySQL**
 - 🎯 Solved 200+ DSA problems on **LeetCode** (and counting!)
 - 🔥 Passionate about building projects that solve real-world problems
