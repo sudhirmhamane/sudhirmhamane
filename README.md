@@ -14,9 +14,8 @@
 
 - 🎓 Final Year B.Tech Electrical Engineering student at NKOCET, Solapur (CGPA: 7.36/10)
 - 💻 Full Stack Developer skilled in **JavaScript, React, Node.js, MongoDB, Express.js and MySQL**
-- 🎯 Solved 200+ DSA problems on **LeetCode** (and counting!)
 - 🔥 Passionate about building projects that solve real-world problems
-- 📢 Currently working as a **Training & Placement Coordinator**
+- 📢 worked as a **Training & Placement Coordinator**
 
 ---
 
@@ -75,7 +74,6 @@
 
 ### 🌟 Achievements
 
-- ✅ Solved **200+ DSA problems** on LeetCode
 - 🥇 Participated in national-level coding & innovation challenges on **Unstop**
 - 🧩 Strong grasp of **OOP, OS, CN, DBMS, DSA**
 - 🎤 Improving communication with my **daily English YouTube series**
